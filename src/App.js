@@ -26,7 +26,8 @@ function App() {
 }
 ])
 
-//Add Task 
+//Add Task
+//add task
 const addTask= (task) => {
   const id = Math.floor(Math.random() * 10000) + 1
 
